@@ -2,10 +2,8 @@
 
 This repository will be used to in the saving of python projects all through the Python Mentorship Program. The mentorship program is being undertaken by Lux Tech Academy in collaboration with Data Science EastAfrica.
 
-![WhatsApp Image 2022-03-03 at 2 56 34 PM](https://user-images.githubusercontent.com/91888963/156565893-7ad9abda-2807-425d-863f-4f14a49888c6.jpeg)          ![WhatsApp Image 2022-03-03 at 2 56 33 PM](https://user-images.githubusercontent.com/91888963/156565908-ea71c157-a2d4-4cf5-8cf9-0044a075193e.jpeg)
+![WhatsApp Image 2022-03-03 at 2 56 34 PM](https://user-images.githubusercontent.com/91888963/156565893-7ad9abda-2807-425d-863f-4f14a49888c6.jpeg)                             ![WhatsApp Image 2022-03-03 at 2 56 33 PM](https://user-images.githubusercontent.com/91888963/156565908-ea71c157-a2d4-4cf5-8cf9-0044a075193e.jpeg)
 
-
-![WhatsApp Image 2022-03-03 at 2 56 33 PM](https://user-images.githubusercontent.com/91888963/156565908-ea71c157-a2d4-4cf5-8cf9-0044a075193e.jpeg)
 
 
 
