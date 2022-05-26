@@ -32,7 +32,7 @@ I will be more than glad it you could take time and read the article. Don't hesi
 
 ## Week Two :man_technologist:
 
-In the second week of the the Python Mentorship program , we had a great session with [@VeldaKiara](https://twitter.com/VeldaKiara) on Intermediate Modern Python. With Velda's excellent delivery skills and real world experience on coding with Python, we were able to gain the most out of her talk. Coceptualizing on every concept she explained.
+In the second week of the the Python Mentorship program , we had a great session with [@VeldaKiara](https://twitter.com/VeldaKiara) on Intermediate Modern Python. With Velda's excellent delivery skills and real world experience on coding with Python, we were able to gain the most out of her talk. Conceptualizing on every concept she explained.
 
 Here also is the link to the session on Lux Academy YouTube page.
 
