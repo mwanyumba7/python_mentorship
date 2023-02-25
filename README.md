@@ -68,6 +68,16 @@ In week three we were also expected to write a technical article on [**"Python f
 
 I will be more than glad if you take some time and read the article nad share with me your feedback. Thank you :partying_face:.
 
+## Python Resources
+
+These are the python resources I use to learn python:
+
+- [Sololearn](https://www.sololearn.com/learn/courses/python-introduction)
+- [Real python](https://realpython.com/python3-object-oriented-programming/)
+- Youtube
+
+-         [Socratica](https://youtu.be/KOdfpbnWLVo)
+
 ## Apreciation
 
 I would like to take this chance to appreciate the organizers of this great event, [Lux Academy](https://twitter.com/lux_academy) and [Data Science East Africa](https://twitter.com/DSEAfrica)
